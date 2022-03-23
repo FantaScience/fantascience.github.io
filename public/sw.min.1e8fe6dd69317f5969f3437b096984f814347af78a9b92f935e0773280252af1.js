@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/fantascience.github.io/sw.js",{scope:"/fantascience.github.io/"})

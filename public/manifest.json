@@ -1,0 +1,15 @@
+{
+  "name": "Fanta_Science",
+  "short_name": "Fanta_Science",
+  "start_url": "/fantascience.github.io/",
+  "scope": "/fantascience.github.io/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/fantascience.github.io/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
